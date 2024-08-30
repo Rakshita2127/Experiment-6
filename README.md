@@ -1,4 +1,4 @@
-# Experiment 3
+# Experiment 6
 
 ### Theory: 
 The for loop in C++ is a control structure that allows code to be executed repeatedly based on a condition. It is beneficial to know the number of iterations before entering the loop. The for loop consists of three main components: initialization, condition, and increment/decrement. The loop begins by initializing a variable and then checks the condition before each iteration. If the condition is true, the loop body executes; otherwise, the loop terminates. After each iteration, the increment or decrement operation updates the loop variable.
