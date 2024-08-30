@@ -45,6 +45,8 @@ Visual Studio Code
 Floyd's Triangle is a triangular arrangement of consecutive natural numbers, where each row contains an increasing number of integers. The first row contains one number, the second row contains two numbers, the third row contains three numbers, and so on. The numbers are placed in a continuous sequence, starting from 1.
 ### Output:
 ![image](https://github.com/user-attachments/assets/ab333a36-3ed6-487b-bd6d-3f5e38d3a02a)
+![image](https://github.com/user-attachments/assets/a1d33332-e039-43e5-80b1-bf24573206d2)
+
 
 ### Conclusion:
 We printed the Floyd series using the for loop in C++. 
